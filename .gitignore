@@ -1,0 +1,10 @@
+.DS_Store
+backup/
+lib/
+godbgen.exe
+godbgen.app
+godbgen
+/gopath/
+liblcl.dll
+liblcl.dylib
+/release
